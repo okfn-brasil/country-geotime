@@ -136,7 +136,7 @@ CREATE TABLE UTM_zone_lists_out2 AS
     FROM UTM_zone_lists2;
 ```
 
-## Adicional information 
+## Additional information 
 
 About other [topological information](https://en.wikipedia.org/wiki/DE-9IM). All the `list_len=0` are usual islands, some `list_len=1` like Vatican City (VA) are [enclaves](https://en.wikipedia.org/wiki/List_of_enclaves_and_exclaves). The [landlocked countries](https://en.wikipedia.org/wiki/Landlocked_country), like Bolivia (BO), are not indicated. Aboy
 

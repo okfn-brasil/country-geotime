@@ -76,8 +76,8 @@
       "schema": {
         "fields": [
           {
-            "name": "type,",
-            "description": "Standard code of a superset or set of contries.",
+            "name": "type",
+            "description": "Standard code of a superset or set of countries.",
             "type": "string"
           },
           {
